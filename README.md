@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DataScientist-Tausif
 - 👀 I’m interested in Artificial Intelligence. 
-- 🌱 I’m currently learning Deep Learning.
+- 🌱 I’m currently Working on Deep Learning.
 - 💞️ I’m looking to collaborate on Research and Inovation in Artificial Intellegence 
 - 📫 How to reach me ...
 
